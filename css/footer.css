@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Flow+Circular&family=Manrope:wght@400;800&display=swap');
+
+footer{
+    /* background-color: #272727; */
+    text-align: center;
+    /* text-transform: uppercase; */
+    /* padding-top: 30px; */
+    margin-top: auto;
+}
+
+.footer-copyright{
+    background-color:#31ABD1;
+    color: #ffffff;
+    padding: 15px;
+    margin-top: 30px;
+    text-transform: capitalize;
+}
+
+.footer-copyright p{
+    margin-bottom: 0px;
+}
